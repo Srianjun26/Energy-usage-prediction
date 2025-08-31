@@ -1,0 +1,1 @@
+The project focuses on enhancing the prediction of energy usage in low-energy residential buildings using advanced machine learning techniques. The primary goal is to improve forecasting accuracy by comparing a baseline model—Random Forest Regressor—with a proposed model—Extra Trees Regressor
